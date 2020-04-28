@@ -1,3 +1,4 @@
+#This program teaches how to parse xml with python
 import xml.etree.ElementTree as ET
 
 data = '''
