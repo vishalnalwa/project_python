@@ -1,3 +1,4 @@
+#learn regular expression
 import re
 valid = '^X-\S* ([bo    +)'
 fhand = open('mbox-short.txt')
