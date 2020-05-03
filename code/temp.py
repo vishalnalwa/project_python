@@ -1,6 +1,6 @@
-inp = input('Please enter temperature\n')
+input = input('Please enter temperature\n')
 try:
-    fahr = float(inp)
+    fahr = float(input)
     cel = (fahr-32.0) * 5.0/9.0
     print(cel)
 except:
